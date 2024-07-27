@@ -73,7 +73,7 @@ To install ShareMate, follow these steps:
 ![Main Window](screenshots/main_window.png)
 
 ### Send Window
-![Send Window]([screenshots/send_window.png](https://github.com/khandelwaly940/ShareMate/tree/main/screenshots))S
+![Send Window]([[screenshots/send_window.png]](https://github.com/khandelwaly940/ShareMate/tree/main/screenshots))
 
 ### Receive Window
 ![Receive Window](screenshots/receive_window.png)
